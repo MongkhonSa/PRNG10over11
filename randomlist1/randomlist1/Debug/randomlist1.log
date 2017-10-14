@@ -1,0 +1,7 @@
+﻿  randomlist1.cpp
+c:\users\itokkyz\source\repos\randomlist1\randomlist1\randomlist1.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\itokkyz\source\repos\randomlist1\randomlist1\randomlist1.cpp(29): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\itokkyz\source\repos\randomlist1\randomlist1\randomlist1.cpp(35): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type '__int64'
+  c:\users\itokkyz\source\repos\randomlist1\randomlist1\randomlist1.cpp(35): note: consider using '%lld' in the format string
+  c:\users\itokkyz\source\repos\randomlist1\randomlist1\randomlist1.cpp(35): note: consider using '%I64d' in the format string

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "plot_hist_formC", "plot_hist_formC\plot_hist_formC.pyproj", "{3A219059-9E9B-4D09-AFDF-EB75B8D4DF0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A219059-9E9B-4D09-AFDF-EB75B8D4DF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A219059-9E9B-4D09-AFDF-EB75B8D4DF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E8484DE-70EB-4AFD-B4BA-4BA74DE7E242}
+	EndGlobalSection
+EndGlobal

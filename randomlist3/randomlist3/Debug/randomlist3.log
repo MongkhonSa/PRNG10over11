@@ -1,0 +1,7 @@
+﻿  randomlist3.cpp
+c:\users\itokkyz\source\repos\randomlist3\randomlist3\randomlist3.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\itokkyz\source\repos\randomlist3\randomlist3\randomlist3.cpp(52): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  c:\users\itokkyz\source\repos\randomlist3\randomlist3\randomlist3.cpp(52): note: consider using '%lld' in the format string
+  c:\users\itokkyz\source\repos\randomlist3\randomlist3\randomlist3.cpp(52): note: consider using '%I64d' in the format string
+  randomlist3.vcxproj -> C:\Users\ITokkyZ\source\repos\randomlist3\Debug\randomlist3.exe
+  randomlist3.vcxproj -> C:\Users\ITokkyZ\source\repos\randomlist3\Debug\randomlist3.pdb (Partial PDB)

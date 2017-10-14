@@ -1,0 +1,6 @@
+﻿  randomlist2.cpp
+c:\users\itokkyz\source\repos\randomlist2\randomlist2\randomlist2.cpp(30): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  c:\users\itokkyz\source\repos\randomlist2\randomlist2\randomlist2.cpp(30): note: consider using '%lld' in the format string
+  c:\users\itokkyz\source\repos\randomlist2\randomlist2\randomlist2.cpp(30): note: consider using '%I64d' in the format string
+  randomlist2.vcxproj -> C:\Users\ITokkyZ\source\repos\randomlist2\Debug\randomlist2.exe
+  randomlist2.vcxproj -> C:\Users\ITokkyZ\source\repos\randomlist2\Debug\randomlist2.pdb (Partial PDB)
